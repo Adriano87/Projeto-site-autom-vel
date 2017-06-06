@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"—– BEGIN LICENSE —– "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adriano/Documents/Projeto site automóvel/index.html",
+		"/C/Users/Adriano/Documents/CSS básico/bordas.html",
+		"/C/Users/Public/Documents/Pasta de bootstrap/index.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/botoes.html",
+		"/C/Users/Public/Documents/Class em css/class.html",
+		"/C/Users/Adriano/Documents/Led Zeppelin/css/led.css",
+		"/C/Users/Adriano/Documents/Led Zeppelin/led.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/index.html",
+		"/C/Users/Adriano/Documents/CSS básico/span-div.html",
+		"/C/Users/Adriano/Documents/Trabalho web/Formulario/converted-html/assets/fonts/league/League_Gothic-webfont.svg",
+		"/C/Users/Adriano/Documents/Estudos de programação/css/estilos.css",
+		"/C/Users/Adriano/Documents/Estudos de programação/index.html",
+		"/C/Users/Adriano/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/C/Users/Adriano/Documents/Trabalho web/aprenda-html5-css3-master/Aula 1 - HTML/index.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/tabelas.html",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/index.html",
+		"/C/Users/Public/Documents/Exemplo de leyout com Grid/grid.html",
+		"/C/xampp/www/Aula de PHP/aula5.php",
+		"/C/xampp/www/Aula de PHP/aula4.php",
+		"/C/Users/Adriano/Documents/Primeiro Projeto/formularios.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/formulario.html",
+		"/C/Users/Public/Documents/Formulario2.html/index.html",
+		"/C/xampp/www/Aula de PHP/aula3.php",
+		"/C/Users/Adriano/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/xampp/www/Aula de PHP/aula2.php",
+		"/C/xampp/www/Aula de PHP/aula1.php",
+		"/C/xampp/www/programa.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/www/Aula de php/ola-mundo.php",
+		"/C/xampp/www/Curso de Php/Curso01.php",
+		"/C/xampp/www/Aula de php/index.php",
+		"/C/xampp/www/Aula de php/curso.php",
+		"/C/xampp/www/Curso de Php/index.php",
+		"/C/xampp/www/Aula de php/aula-1.php",
+		"/C/xampp/www/Aula de php/aula-2.php",
+		"/C/xampp/www/index.php",
+		"/C/xampp/www/Aula de PHP/Curso de PHP/index.php",
+		"/C/xampp/www/Aula de PHP/PHP/index.php",
+		"/C/xampp/www/Aula de PHP/index.php",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/quem-somos.html",
+		"/C/Users/Adriano/Documents/Projeto site relojoaria/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site relojoaria/index.html",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/imagens/principal2.png",
+		"/C/Users/Adriano/Documents/Projeto site Mercado/imagens/principal2.jpg",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site companhia aerea/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site companhia aerea/index.html",
+		"/C/Users/Public/Documents/Teste sobre Bootstrap/index.html",
+		"/C/Users/Public/Documents/Teste sobre Bootstrap/css/estilo.css",
+		"/C/Users/Public/Documents/Anihando colunas no Bootstrap/index.html",
+		"/C/Users/Public/Documents/Anihando colunas no Bootstrap/css/estilo.css",
+		"/C/Users/Public/Documents/Aula2 de Bootstrap/index.html",
+		"/C/Users/Public/Documents/Aula de Bootstrap/index.html",
+		"/C/Users/Public/Documents/Aula de Bootstrap/css/estilo.css",
+		"/C/Users/Public/Documents/Bootstrap-Entendendo os Grids/index.html",
+		"/C/Users/Public/Documents/Bootstrap-Entendendo os Grids/css/estilo.css",
+		"/C/Users/Public/Documents/Bootstrap-Entendendo Grids/index.html",
+		"/C/Users/Public/Documents/Bootstrap-Entendendo Grids/css/estilos.css",
+		"/C/Users/Adriano/Documents/Formulario em html/index.html",
+		"/C/Users/Adriano/Documents/paragrafos em html/button.html",
+		"/C/Users/Adriano/Documents/paragrafos em html/index.html",
+		"/C/Users/Adriano/Documents/Primeiro Projeto/tabela.html",
+		"/C/Users/Adriano/Documents/Primeiro Projeto/index.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/css/bootstrap-theme.css",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/css/bootstrap-theme.min.css.map",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/fonts/glyphicons-halflings-regular.eot",
+		"/C/Users/Adriano/Documents/Formulário com bootstrap/formulario.html",
+		"/C/Users/Adriano/Documents/ProjetoBootstrap2/arquivos-aula/formularios.html",
+		"/C/Users/Adriano/Documents/ProjetoBootstrap2/formulario.html",
+		"/C/Users/Adriano/Documents/CSS básico/fontes-cores.html",
+		"/C/Users/Adriano/Documents/Projeto site automóvel/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site automóvel/quem-somos.html",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/js/bootstrap.min.js",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/js/npm.js",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/js/bootstrap.js",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/css/bootstrap.css",
+		"/C/Users/Adriano/Documents/Projeto Bootstrap/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Adriano/Documents/Aula de animation em css3/animation.html",
+		"/C/Users/Adriano/Documents/CSS3 Animations/Animation-css3.html",
+		"/C/Users/Adriano/Documents/Projeto site relojoaria/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site para pizzaria/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site para pizzaria/index.html",
+		"/C/Users/Adriano/Documents/Projeto site para pizzaria/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site moda feminina/index.html",
+		"/C/Users/Adriano/Documents/Projeto site moda feminina/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site moda feminina/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site confeitaria/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site confeitaria/index.html",
+		"/C/Users/Adriano/Documents/Projeto site confeitaria/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site companhia aerea/contato.html",
+		"/C/Users/Adriano/Documents/Projeto site automóvel/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site escola infantil/index.html",
+		"/C/Users/Adriano/Documents/Projeto site escola infantil/css/estilo.css",
+		"/C/Users/Adriano/Documents/Projeto site escola infantil/contato.html",
+		"/C/Users/Adriano/Documents/projeto final/contato.html",
+		"/C/Users/Adriano/Documents/projeto final/index.html",
+		"/C/Users/Adriano/Documents/tecblog1/index.html",
+		"/C/Users/Adriano/Documents/Aula de CSS básico/inline_style.html",
+		"/C/Users/Adriano/Documents/css - links/links.html",
+		"/C/Users/Adriano/Documents/CSS3 Transitions2/transitions css.html",
+		"/C/Users/Adriano/Documents/box-shadow/box-shadow.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<div class=\"tutor\">\n\t\tOla mundo!\n\t</div>\n\t",
+			"div",
+			"Ola",
+			"Flamengo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bo",
+				"CSS básico\\bordas.html"
+			],
+			[
+				"html",
+				"Trabalho web\\Formulario\\converted-html\\assets\\fonts\\league\\League_Gothic-webfont.svg"
+			],
+			[
+				"",
+				"Trabalho web\\aprenda-html5-css3-master\\Aula 1 - HTML\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 869.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
